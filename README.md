@@ -18,17 +18,8 @@ The project covers **5 essential functional programming tasks**:
 ## 💻 Code Structure & Examples
 
 Here is a quick look at how the code is structured and implemented using core features from the project:
-### 1. Functional Conditional Structure
-Testing basic input criteria and handling branch flows securely:
-```python
-def check_even_odd(num: int):
-    if num % 2 == 0:
-        return 'Cüt'
-    return 'Tək'
 
-
-Finding vowel count
-
+-Finding vowel count
 ```python
 def count_vowels(text: str):
     vowels = 'aeiouAEIOU'
